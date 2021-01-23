@@ -119,7 +119,7 @@
 
 ## Others 
 
-- [starred](https://github.com/sim1/starred) - My starred repos
+- [stars](https://github.com/sim1/stars) - sim1/stars - An awesome list of my starred repositories
 - [semgrep-rules](https://github.com/hazanasec/semgrep-rules) - Rules to be used with the brilliant https://github.com/returntocorp/semgrep
 - [Strava-Promo-Codes](https://github.com/53RT/Strava-Promo-Codes) - Collection of Strava Promo Codes for Summit Membership
 - [noobs](https://github.com/oreqizer/noobs) - Guides for noobs. 🎺
