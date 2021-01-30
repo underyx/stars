@@ -15,6 +15,7 @@
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
@@ -90,7 +91,6 @@
 - [edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [ac-nh-turnip-prices](https://github.com/mikebryant/ac-nh-turnip-prices) - Price calculator/predictor for Turnip prices
 - [horrendous-markdown](https://github.com/Strajk/horrendous-markdown) - Markdown as horrendous as possible. For testing linters & editors & willpower.
-- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [meta](https://github.com/mrtnzlml/meta) - :cyclone: My brain extension, personal README
 - [margarita](https://github.com/kiwicom/margarita) - [not actively maintained] Mobile and Web application implementing Kiwi.com Tequila API
 - [terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
@@ -113,12 +113,17 @@
 - [atom-wakatime](https://github.com/wakatime/atom-wakatime) - Atom plugin for automatic time tracking and metrics generated from your programming activity.
 - [botwillacceptanything](https://github.com/botwillacceptanything/botwillacceptanything) - The project where anything goes, as long as the code allows it
 
+## OCaml 
+
+- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+
 ## Objective-C 
 
 - [Spotify-Notifications](https://github.com/citruspi/Spotify-Notifications) - Bridging Spotify and macOS Notification Center
 
 ## Others 
 
+- [remarkable2-hacks](https://github.com/danielebruneo/remarkable2-hacks) - A collection of hacks, mods, tools, tips & tricks, specifically focused on the reMarkable 2
 - [stars](https://github.com/sim1/stars) - sim1/stars - An awesome list of my starred repositories
 - [semgrep-rules](https://github.com/hazanasec/semgrep-rules) - Rules to be used with the brilliant https://github.com/returntocorp/semgrep
 - [Strava-Promo-Codes](https://github.com/53RT/Strava-Promo-Codes) - Collection of Strava Promo Codes for Summit Membership
@@ -143,6 +148,8 @@
 
 ## Python 
 
+- [mega-linter](https://github.com/nvuillam/mega-linter) - Mega-Linter analyzes 40 languages, 19 formats, 16 tooling formats , abusive copy-pastes and spelling mistakes in your repository sources , with a GitHub Action or other CI tools
+- [pipx](https://github.com/pipxproject/pipx) - Install and Run Python Applications in Isolated Environments
 - [transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
 - [py-ts-interfaces](https://github.com/cs-cordero/py-ts-interfaces) - A Python to Typescript Interface Generator
 - [poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
