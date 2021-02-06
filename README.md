@@ -15,7 +15,6 @@
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
-  - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
@@ -81,6 +80,7 @@
 ## Java 
 
 - [semgrep-rules](https://github.com/returntocorp/semgrep-rules) - Semgrep rules registry
+- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [EnvFile](https://github.com/ashald/EnvFile) - EnvFile 3.0 is a plugin for JetBrains IDEs that allows you to set environment variables for your run configurations from one or multiple files.
 - [jetbrains-wakatime](https://github.com/wakatime/jetbrains-wakatime) - IntelliJ IDEA, PyCharm, RubyMine, PhpStorm, AppCode, AndroidStudio, Goland, Rider, & WebStorm plugin for quantifying your coding.
 - [gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
@@ -112,10 +112,6 @@
 - [nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [atom-wakatime](https://github.com/wakatime/atom-wakatime) - Atom plugin for automatic time tracking and metrics generated from your programming activity.
 - [botwillacceptanything](https://github.com/botwillacceptanything/botwillacceptanything) - The project where anything goes, as long as the code allows it
-
-## OCaml 
-
-- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 
 ## Objective-C 
 
