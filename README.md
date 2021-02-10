@@ -144,7 +144,7 @@
 
 ## Python 
 
-- [mega-linter](https://github.com/nvuillam/mega-linter) - Mega-Linter analyzes 40 languages, 19 formats, 16 tooling formats , abusive copy-pastes and spelling mistakes in your repository sources , with a GitHub Action or other CI tools
+- [mega-linter](https://github.com/nvuillam/mega-linter) - 🦙 Mega-Linter analyzes 40 languages, 19 formats, 16 tooling formats , abusive copy-pastes and spelling mistakes in your repository sources , with a GitHub Action or other CI tools
 - [pipx](https://github.com/pipxproject/pipx) - Install and Run Python Applications in Isolated Environments
 - [transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
 - [py-ts-interfaces](https://github.com/cs-cordero/py-ts-interfaces) - A Python to Typescript Interface Generator
