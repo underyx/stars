@@ -88,6 +88,7 @@
 
 ## JavaScript 
 
+- [git-peek](https://github.com/Jarred-Sumner/git-peek) - git repo to local editor instantly
 - [edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [ac-nh-turnip-prices](https://github.com/mikebryant/ac-nh-turnip-prices) - Price calculator/predictor for Turnip prices
 - [horrendous-markdown](https://github.com/Strajk/horrendous-markdown) - Markdown as horrendous as possible. For testing linters & editors & willpower.
