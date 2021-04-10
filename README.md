@@ -15,7 +15,6 @@
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
-  - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
@@ -46,7 +45,7 @@
 
 ## Clojure 
 
-- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Paid tiers available through https://opencollective.com/athens; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://app.gitbook.com/@athensresearch/s/athens/
+- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Paid tiers available through https://opencollective.com/athens; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://app.gitbook.com/@athensresearch/s/handbook/
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 
 ## CoffeeScript 
@@ -81,6 +80,7 @@
 ## Java 
 
 - [returntocorp/semgrep-rules](https://github.com/returntocorp/semgrep-rules) - Semgrep rules registry
+- [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [ashald/EnvFile](https://github.com/ashald/EnvFile) - EnvFile 3.0 is a plugin for JetBrains IDEs that allows you to set environment variables for your run configurations from one or multiple files.
 - [wakatime/jetbrains-wakatime](https://github.com/wakatime/jetbrains-wakatime) - IntelliJ IDEA, PyCharm, RubyMine, PhpStorm, AppCode, AndroidStudio, Goland, Rider, & WebStorm plugin for quantifying your coding.
 - [gocd/gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
@@ -115,10 +115,6 @@
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [wakatime/atom-wakatime](https://github.com/wakatime/atom-wakatime) - Atom plugin for automatic time tracking and metrics generated from your programming activity.
 - [botwillacceptanything/botwillacceptanything](https://github.com/botwillacceptanything/botwillacceptanything) - The project where anything goes, as long as the code allows it
-
-## OCaml 
-
-- [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 
 ## Objective-C 
 
