@@ -125,7 +125,6 @@
 - [danielebruneo/remarkable2-hacks](https://github.com/danielebruneo/remarkable2-hacks) - A collection of hacks, mods, tools, tips & tricks, specifically focused on the reMarkable 2
 - [sim1/stars](https://github.com/sim1/stars) - sim1/stars - An awesome list of my starred repositories
 - [53RT/Strava-Promo-Codes](https://github.com/53RT/Strava-Promo-Codes) - Collection of Strava Promo Codes for Summit Membership
-- [oreqizer/noobs](https://github.com/oreqizer/noobs) - Guides for noobs. 🎺
 - [cbovis/awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
 - [thecookiefactory/cp_change](https://github.com/thecookiefactory/cp_change) - A 5CP Team Fortress 2 map.
 - [remydb/LogUploader](https://github.com/remydb/LogUploader) - Sourcemod plugin for uploading logs to logs.tf
