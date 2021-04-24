@@ -28,6 +28,7 @@
 
 ## C 
 
+- [psycopg/psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
 - [moonlight-stream/moonlight-chrome](https://github.com/moonlight-stream/moonlight-chrome) - GameStream client for ChromeOS
 
@@ -66,6 +67,7 @@
 
 ## HTML 
 
+- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [alexherbo2/krabby](https://github.com/alexherbo2/krabby) - A keyboard interface to the web, inspired by Kakoune
 - [ISNIT0/svelte-utils](https://github.com/ISNIT0/svelte-utils) - Handy Svelte components for the whole family
 - [dyslexicat/scalr](https://github.com/dyslexicat/scalr) - A simple piano app to show which notes belong to a certain scale.
@@ -169,7 +171,6 @@
 - [Qirky/FoxDot](https://github.com/Qirky/FoxDot) - Python driven environment for Live Coding
 - [DataDog/dd-trace-py](https://github.com/DataDog/dd-trace-py) - Datadog Python APM Client
 - [totalgood/openchat](https://github.com/totalgood/openchat) - Twittter and Slack Chatbot to maintain a schedule of events and tweet reminders as they approach.
-- [psycopg/psycopg2](https://github.com/psycopg/psycopg2) - PostgreSQL database adapter for the Python programming language
 - [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [ewjoachim/raincoat](https://github.com/ewjoachim/raincoat) - Raincoat has you covered when you can't stay DRY
 - [h2non/riprova](https://github.com/h2non/riprova) - Versatile async-friendly library to retry failed operations with configurable backoff strategies
@@ -200,6 +201,7 @@
 
 ## Rust 
 
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
