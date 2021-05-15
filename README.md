@@ -23,6 +23,7 @@
   - [Rust](#rust)
   - [SCSS](#scss)
   - [Shell](#shell)
+  - [SourcePawn](#sourcepawn)
   - [Swift](#swift)
   - [TypeScript](#typescript)
 
@@ -217,6 +218,10 @@
 - [returntocorp/bento-action](https://github.com/returntocorp/bento-action) - 
 - [wernight/docker-plex-media-server](https://github.com/wernight/docker-plex-media-server) - Dockerized Plex Media Server
 - [inishchith/autoenv](https://github.com/inishchith/autoenv) - Directory-based environments. [Author @ken-reitz]
+
+## SourcePawn 
+
+- [alvancamp/MGEMod](https://github.com/alvancamp/MGEMod) - Comprehensive 1v1 training mod for Team Fortress 2
 
 ## Swift 
 
