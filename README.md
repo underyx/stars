@@ -150,7 +150,7 @@
 
 - [karlicoss/HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
 - [nvuillam/mega-linter](https://github.com/nvuillam/mega-linter) - 🦙 Mega-Linter analyzes 45 languages, 22 formats, 17 tooling formats , abusive copy-pastes and spelling mistakes in your repository sources , with a GitHub Action, other CI tools or locally
-- [pipxproject/pipx](https://github.com/pipxproject/pipx) - Install and Run Python Applications in Isolated Environments
+- [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
 - [cs-cordero/py-ts-interfaces](https://github.com/cs-cordero/py-ts-interfaces) - A Python to Typescript Interface Generator
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
