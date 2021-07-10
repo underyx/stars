@@ -10,6 +10,7 @@
   - [CSS](#css)
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
+  - [Elixir](#elixir)
   - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
@@ -53,6 +54,10 @@
 ## CoffeeScript 
 
 - [taigaio/taiga-front](https://github.com/taigaio/taiga-front) - Agile project management platform. Built on top of Django and AngularJS
+
+## Elixir 
+
+- [jtormey/linear-sync](https://github.com/jtormey/linear-sync) - Easily synchronize issues between Linear and GitHub
 
 ## Go 
 
@@ -152,7 +157,7 @@
 - [karlicoss/HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
 - [nvuillam/mega-linter](https://github.com/nvuillam/mega-linter) - 🦙 Mega-Linter analyzes 45 languages, 22 formats, 17 tooling formats , abusive copy-pastes and spelling mistakes in your repository sources , with a GitHub Action, other CI tools or locally
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
 - [cs-cordero/py-ts-interfaces](https://github.com/cs-cordero/py-ts-interfaces) - A Python to Typescript Interface Generator
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [ssfdust/flask-sqlalchemy-stubs](https://github.com/ssfdust/flask-sqlalchemy-stubs) - testing stubs and mypy plugin for flask-sqlalchemy
