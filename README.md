@@ -16,6 +16,7 @@
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
   - [Others](#others)
   - [PHP](#php)
@@ -88,7 +89,6 @@
 ## Java 
 
 - [returntocorp/semgrep-rules](https://github.com/returntocorp/semgrep-rules) - Semgrep rules registry
-- [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [ashald/EnvFile](https://github.com/ashald/EnvFile) - EnvFile 3.0 is a plugin for JetBrains IDEs that allows you to set environment variables for your run configurations from one or multiple files.
 - [wakatime/jetbrains-wakatime](https://github.com/wakatime/jetbrains-wakatime) - IntelliJ IDEA, PyCharm, RubyMine, PhpStorm, AppCode, AndroidStudio, Goland, Rider, & WebStorm plugin for quantifying your coding.
 - [gocd/gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
@@ -126,6 +126,10 @@
 - [wakatime/atom-wakatime](https://github.com/wakatime/atom-wakatime) - Atom plugin for automatic time tracking and metrics generated from your programming activity.
 - [botwillacceptanything/botwillacceptanything](https://github.com/botwillacceptanything/botwillacceptanything) - The project where anything goes, as long as the code allows it
 
+## OCaml 
+
+- [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+
 ## Objective-C 
 
 - [citruspi/Spotify-Notifications](https://github.com/citruspi/Spotify-Notifications) - Bridging Spotify and macOS Notification Center
@@ -156,7 +160,7 @@
 ## Python 
 
 - [karlicoss/HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
-- [nvuillam/mega-linter](https://github.com/nvuillam/mega-linter) - 🦙 Mega-Linter analyzes 45 languages, 22 formats, 17 tooling formats , abusive copy-pastes and spelling mistakes in your repository sources , with a GitHub Action, other CI tools or locally
+- [nvuillam/mega-linter](https://github.com/nvuillam/mega-linter) - 🦙 Mega-Linter analyzes 47 languages, 22 formats, 18 tooling formats , abusive copy-pastes and spelling mistakes in your repository sources , with a GitHub Action, other CI tools or locally
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
 - [cs-cordero/py-ts-interfaces](https://github.com/cs-cordero/py-ts-interfaces) - A Python to Typescript Interface Generator
