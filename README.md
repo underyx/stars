@@ -28,6 +28,7 @@
   - [SourcePawn](#sourcepawn)
   - [Swift](#swift)
   - [TypeScript](#typescript)
+  - [Vim script](#vim-script)
 
 ## C 
 
@@ -159,7 +160,7 @@
 ## Python 
 
 - [karlicoss/HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
-- [nvuillam/mega-linter](https://github.com/nvuillam/mega-linter) - 🦙 Mega-Linter analyzes 48 languages, 22 formats, 19 tooling formats , abusive copy-pastes and spelling mistakes in your repository sources , with a GitHub Action, other CI tools or locally
+- [megalinter/megalinter](https://github.com/megalinter/megalinter) - 🦙 Mega-Linter analyzes 48 languages, 22 formats, 19 tooling formats, abusive copy-pastes and spelling mistakes in your repository sources with a GitHub Action, other CI tools or locally.
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
 - [cs-cordero/py-ts-interfaces](https://github.com/cs-cordero/py-ts-interfaces) - A Python to Typescript Interface Generator
@@ -197,7 +198,6 @@
 - [p-e-w/maybe](https://github.com/p-e-w/maybe) - :open_file_folder: :rabbit2: :tophat: See what a program does before deciding whether you really want it to happen (NO LONGER MAINTAINED)
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
-- [wakatime/vim-wakatime](https://github.com/wakatime/vim-wakatime) - Vim plugin for automatic time tracking and metrics generated from your programming activity.
 - [wakatime/sublime-wakatime](https://github.com/wakatime/sublime-wakatime) - Sublime Text 2 & 3 plugin for automatic time tracking and metrics generated from your programming activity.
 - [wakatime/legacy-python-cli](https://github.com/wakatime/legacy-python-cli) - Command line interface used by all WakaTime text editor plugins.
 - [taigaio/taiga-back](https://github.com/taigaio/taiga-back) - Agile project management platform. Built on top of Django and AngularJS
@@ -247,6 +247,10 @@
 - [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [ghaiklor/kittik](https://github.com/ghaiklor/kittik) - Create slides in TypeScript and present them in the terminal using ASCII only!
+
+## Vim script 
+
+- [wakatime/vim-wakatime](https://github.com/wakatime/vim-wakatime) - Vim plugin for automatic time tracking and metrics generated from your programming activity.
 
 
 ## License
