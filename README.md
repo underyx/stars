@@ -50,7 +50,7 @@
 
 ## Clojure 
 
-- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://handbook.athensresearch.org/
+- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://athensresearch.github.io/docs/
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
 
 ## CoffeeScript 
@@ -96,6 +96,7 @@
 
 ## JavaScript 
 
+- [flybywiresim/a32nx](https://github.com/flybywiresim/a32nx) - The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible.
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
 - [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react) - Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins
@@ -162,7 +163,7 @@
 - [karlicoss/HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
 - [megalinter/megalinter](https://github.com/megalinter/megalinter) - 🦙 Mega-Linter analyzes 48 languages, 22 formats, 19 tooling formats, abusive copy-pastes and spelling mistakes in your repository sources with a GitHub Action, other CI tools or locally.
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [cs-cordero/py-ts-interfaces](https://github.com/cs-cordero/py-ts-interfaces) - A Python to Typescript Interface Generator
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [ssfdust/flask-sqlalchemy-stubs](https://github.com/ssfdust/flask-sqlalchemy-stubs) - testing stubs and mypy plugin for flask-sqlalchemy
