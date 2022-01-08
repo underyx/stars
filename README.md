@@ -16,6 +16,7 @@
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Mustache](#mustache)
   - [OCaml](#ocaml)
   - [Objective-C](#objective-c)
   - [Others](#others)
@@ -126,6 +127,10 @@
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [wakatime/atom-wakatime](https://github.com/wakatime/atom-wakatime) - Atom plugin for automatic time tracking and metrics generated from your programming activity.
 - [botwillacceptanything/botwillacceptanything](https://github.com/botwillacceptanything/botwillacceptanything) - The project where anything goes, as long as the code allows it
+
+## Mustache 
+
+- [Kumux/kumux-colorscheme-engine](https://github.com/Kumux/kumux-colorscheme-engine) - Kumux is the world's first dynamic circadian color scheme for code editors and other software.
 
 ## OCaml 
 
