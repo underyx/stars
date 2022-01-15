@@ -89,7 +89,6 @@
 
 ## Java 
 
-- [returntocorp/semgrep-rules](https://github.com/returntocorp/semgrep-rules) - Semgrep rules registry
 - [ashald/EnvFile](https://github.com/ashald/EnvFile) - EnvFile 3.0 is a plugin for JetBrains IDEs that allows you to set environment variables for your run configurations from one or multiple files.
 - [wakatime/jetbrains-wakatime](https://github.com/wakatime/jetbrains-wakatime) - IntelliJ IDEA, PyCharm, RubyMine, PhpStorm, AppCode, AndroidStudio, Goland, Rider, & WebStorm plugin for quantifying your coding.
 - [gocd/gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
@@ -173,6 +172,7 @@
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
 - [ssfdust/flask-sqlalchemy-stubs](https://github.com/ssfdust/flask-sqlalchemy-stubs) - testing stubs and mypy plugin for flask-sqlalchemy
 - [returntocorp/semgrep-action](https://github.com/returntocorp/semgrep-action) - Semgrep CI is a specialized Docker image for running Semgrep in CI environments. It can either be used stand-alone or connected with Semgrep App for centralized rule and findings management.
+- [returntocorp/semgrep-rules](https://github.com/returntocorp/semgrep-rules) - Semgrep rules registry
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
 - [joseph-roitman/pytest-snapshot](https://github.com/joseph-roitman/pytest-snapshot) - A plugin for snapshot testing with pytest.
 - [returntocorp/bento](https://github.com/returntocorp/bento) - [DEPRECATED] Find Python web-app bugs delightfully fast, without changing your workflow. 🍱
@@ -246,6 +246,7 @@
 
 ## TypeScript 
 
+- [infi-pc/locatorjs](https://github.com/infi-pc/locatorjs) - 
 - [google/react-schemaorg](https://github.com/google/react-schemaorg) - Type-checked Schema.org JSON-LD for React
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [returntocorp/semgrep-vscode](https://github.com/returntocorp/semgrep-vscode) - Semgrep extension for Visual Studio Code
