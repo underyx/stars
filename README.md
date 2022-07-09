@@ -65,6 +65,7 @@
 
 ## Go 
 
+- [spencerdrak/elo-tracker](https://github.com/spencerdrak/elo-tracker) - Track your chess ratings alongside your opponents!
 - [dgryski/semgrep-go](https://github.com/dgryski/semgrep-go) - Go rules for semgrep and go-ruleguard
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
 - [aevea/release-notary](https://github.com/aevea/release-notary) - App to just generate release notes.
