@@ -30,7 +30,7 @@
 - [SourcePawn](#sourcepawn)
 - [Swift](#swift)
 - [TypeScript](#typescript)
-- [Vim script](#vim-script)
+- [Vim Script](#vim-script)
 
 ## C 
 
@@ -62,7 +62,7 @@
 
 ## Dockerfile 
 
-- [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 Mega-Linter analyzes 49 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loc
+- [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 Mega-Linter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loc
 
 ## Elixir 
 
@@ -263,7 +263,7 @@
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [ghaiklor/kittik](https://github.com/ghaiklor/kittik) - Create slides in TypeScript and present them in the terminal using ASCII only!
 
-## Vim script 
+## Vim Script 
 
 - [wakatime/vim-wakatime](https://github.com/wakatime/vim-wakatime) - Vim plugin for automatic time tracking and metrics generated from your programming activity.
 
