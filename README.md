@@ -170,6 +170,7 @@
 
 ## Python 
 
+- [vivekkhimani/torchfl](https://github.com/vivekkhimani/torchfl) - A Python library for rapid prototyping, experimenting, and logging of federated learning using state-of-the-art models and datasets. Built using PyTorch and PyTorch Lightning.
 - [ucodery/bonded](https://github.com/ucodery/bonded) - 
 - [slavfox/Cozette](https://github.com/slavfox/Cozette) - A bitmap programming font optimized for coziness 💜
 - [karlicoss/HPI](https://github.com/karlicoss/HPI) - Human Programming Interface 🧑👽🤖
@@ -253,6 +254,7 @@
 
 ## TypeScript 
 
+- [petyosi/react-virtuoso](https://github.com/petyosi/react-virtuoso) - The most powerful virtual list component for React
 - [infi-pc/locatorjs](https://github.com/infi-pc/locatorjs) - 
 - [google/react-schemaorg](https://github.com/google/react-schemaorg) - Type-checked Schema.org JSON-LD for React
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
