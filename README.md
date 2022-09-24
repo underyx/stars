@@ -13,6 +13,7 @@
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [Go](#go)
+- [HCL](#hcl)
 - [HTML](#html)
 - [Haskell](#haskell)
 - [Java](#java)
@@ -80,6 +81,10 @@
 - [oreqizer/go-jaywt](https://github.com/oreqizer/go-jaywt) - :unlock: A utility package for extracting and validating JWT tokens from requests.
 - [sourcegraph/thyme](https://github.com/sourcegraph/thyme) - Automatically track which applications you use and for how long.
 - [exercism/cli](https://github.com/exercism/cli) - A Go based command line tool for exercism.io.
+
+## HCL 
+
+- [returntocorp/semgrep-rules](https://github.com/returntocorp/semgrep-rules) - Semgrep rules registry
 
 ## HTML 
 
@@ -177,10 +182,9 @@
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [cs-cordero/py-ts-interfaces](https://github.com/cs-cordero/py-ts-interfaces) - A Python to Typescript Interface Generator
-- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [ssfdust/flask-sqlalchemy-stubs](https://github.com/ssfdust/flask-sqlalchemy-stubs) - testing stubs and mypy plugin for flask-sqlalchemy
 - [returntocorp/semgrep-action](https://github.com/returntocorp/semgrep-action) - Semgrep CI is a specialized Docker image for running Semgrep in CI environments. It can either be used stand-alone or connected with Semgrep App for centralized rule and findings management.
-- [returntocorp/semgrep-rules](https://github.com/returntocorp/semgrep-rules) - Semgrep rules registry
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
 - [joseph-roitman/pytest-snapshot](https://github.com/joseph-roitman/pytest-snapshot) - A plugin for snapshot testing with pytest.
 - [returntocorp/bento](https://github.com/returntocorp/bento) - [DEPRECATED] Find Python web-app bugs delightfully fast, without changing your workflow. 🍱
@@ -206,7 +210,7 @@
 - [mvantellingen/python-zeep](https://github.com/mvantellingen/python-zeep) - A modern/fast python SOAP client based on lxml / requests
 - [scottrice/Ice](https://github.com/scottrice/Ice) - Application to automatically add ROMs to Steam
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
-- [bup/bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Current release is 
+- [bup/bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Please post problem
 - [larryhastings/gilectomy](https://github.com/larryhastings/gilectomy) - Gilectomy branch of CPython.  Use "gilectomy" branch in git.  Read the important, short README below!
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [p-e-w/maybe](https://github.com/p-e-w/maybe) - :open_file_folder: :rabbit2: :tophat: See what a program does before deciding whether you really want it to happen (NO LONGER MAINTAINED)
