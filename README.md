@@ -55,7 +55,7 @@
 ## Clojure 
 
 - [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://athensresearch.github.io/docs/
-- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics  to everyone in your company :yum:
+- [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 
 ## CoffeeScript 
 
@@ -191,7 +191,7 @@
 - [kiwicom/the-zoo](https://github.com/kiwicom/the-zoo) - 🐒 A service registry for humans
 - [kiwicom/phoenix](https://github.com/kiwicom/phoenix) - Outage announcement integration with slack
 - [schovancova/FoodRadar](https://github.com/schovancova/FoodRadar) - Food datascraping off popular websites, advanced macronutrient filtering and notification system.
-- [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
+- [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [aquasecurity/kube-hunter](https://github.com/aquasecurity/kube-hunter) - Hunt for security weaknesses in Kubernetes clusters
 - [Qirky/FoxDot-Worksheet](https://github.com/Qirky/FoxDot-Worksheet) - A worksheet that introduces key elements of the FoxDot live coding library
 - [silviagomez/Geraldo](https://github.com/silviagomez/Geraldo) - geraldo the robot that follows black lines
@@ -254,6 +254,7 @@
 
 ## Swift 
 
+- [Automattic/pocket-casts-ios](https://github.com/Automattic/pocket-casts-ios) - Pocket Casts iOS app 🎧
 - [leits/MeetingBar](https://github.com/leits/MeetingBar) - 🇺🇦 Your next meeting always before your eyes in the macOS menu bar
 
 ## TypeScript 
