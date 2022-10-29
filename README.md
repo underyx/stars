@@ -80,7 +80,7 @@
 - [rancher/os](https://github.com/rancher/os) - Tiny Linux distro that runs the entire OS as Docker containers
 - [oreqizer/go-jaywt](https://github.com/oreqizer/go-jaywt) - :unlock: A utility package for extracting and validating JWT tokens from requests.
 - [sourcegraph/thyme](https://github.com/sourcegraph/thyme) - Automatically track which applications you use and for how long.
-- [exercism/cli](https://github.com/exercism/cli) - A Go based command line tool for exercism.io.
+- [exercism/cli](https://github.com/exercism/cli) - A Go based command line tool for exercism.org.
 
 ## HCL 
 
@@ -175,6 +175,7 @@
 
 ## Python 
 
+- [tophat/syrupy](https://github.com/tophat/syrupy) - :pancakes: The sweeter pytest snapshot plugin
 - [vivekkhimani/torchfl](https://github.com/vivekkhimani/torchfl) - A Python library for rapid prototyping, experimenting, and logging of federated learning using state-of-the-art models and datasets. Built using PyTorch and PyTorch Lightning.
 - [ucodery/bonded](https://github.com/ucodery/bonded) - 
 - [slavfox/Cozette](https://github.com/slavfox/Cozette) - A bitmap programming font optimized for coziness 💜
