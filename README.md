@@ -54,7 +54,7 @@
 
 ## Clojure 
 
-- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://athensresearch.github.io/docs/
+- [athensresearch/athens](https://github.com/athensresearch/athens) - ATHENS IS NO LONGER BEING ACTIVELY MAINTAINED. Athens is an open-source, collaborative knowledge graph.
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 
 ## CoffeeScript 
@@ -122,7 +122,6 @@
 - [walaura/tailflix](https://github.com/walaura/tailflix) - drop in replacement for tail -F that asks you if you are still watching
 - [kantord/emuto](https://github.com/kantord/emuto) - manipulate JSON files
 - [kiwicom/nitrolib](https://github.com/kiwicom/nitrolib) - This is a mirror of https://gitlab.skypicker.com/frontend/nitrolib where y'all have no access :kissing_cat:
-- [kiwicom/orbit](https://github.com/kiwicom/orbit) - React components of open-source Orbit design system by Kiwi.com
 - [kiwicom/smart-faq](https://github.com/kiwicom/smart-faq) - Smart FAQ ⚠️INACTIVE → moved to internal GitLab ⚠️
 - [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [kiwicom/refined-gitlab](https://github.com/kiwicom/refined-gitlab) - 🛠 WIP 🛠 Chrome extension that enhances GitLab
@@ -153,7 +152,7 @@
 ## Others 
 
 - [danielebruneo/remarkable2-hacks](https://github.com/danielebruneo/remarkable2-hacks) - A collection of hacks, mods, tools, tips & tricks, specifically focused on the reMarkable 2
-- [sim1/stars](https://github.com/sim1/stars) - sim1/stars - An awesome list of my starred repositories
+- [katlol/stars](https://github.com/katlol/stars) - katlol/stars - An awesome list of my starred repositories
 - [53RT/Strava-Promo-Codes](https://github.com/53RT/Strava-Promo-Codes) - Collection of Strava Promo Codes for Summit Membership
 - [cbovis/awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
 - [thecookiefactory/cp_change](https://github.com/thecookiefactory/cp_change) - A 5CP Team Fortress 2 map.
@@ -208,7 +207,7 @@
 - [hynek/structlog](https://github.com/hynek/structlog) - Simple, powerful, and fast logging for Python.
 - [aamalev/aiohttp_apiset](https://github.com/aamalev/aiohttp_apiset) - Package to build routes using swagger specification
 - [twschiller/open-synthesis](https://github.com/twschiller/open-synthesis) - Open platform for CIA-style intelligence analysis
-- [mvantellingen/python-zeep](https://github.com/mvantellingen/python-zeep) - A modern/fast python SOAP client based on lxml / requests
+- [mvantellingen/python-zeep](https://github.com/mvantellingen/python-zeep) - A Python SOAP client
 - [scottrice/Ice](https://github.com/scottrice/Ice) - Application to automatically add ROMs to Steam
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
 - [bup/bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Please post problem
@@ -268,6 +267,7 @@
 - [returntocorp/semgrep-vscode](https://github.com/returntocorp/semgrep-vscode) - Semgrep extension for Visual Studio Code
 - [sveltejs/svelte-preprocess](https://github.com/sveltejs/svelte-preprocess) - A ✨ magical ✨ Svelte preprocessor with sensible defaults and support for: PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, Pug and much more.
 - [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
+- [kiwicom/orbit](https://github.com/kiwicom/orbit) - React components of open-source Orbit design system by Kiwi.com
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [ghaiklor/kittik](https://github.com/ghaiklor/kittik) - Create slides in TypeScript and present them in the terminal using ASCII only!
 
