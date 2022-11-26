@@ -259,6 +259,7 @@
 
 ## TypeScript 
 
+- [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2)
 - [petyosi/react-virtuoso](https://github.com/petyosi/react-virtuoso) - The most powerful virtual list component for React
 - [infi-pc/locatorjs](https://github.com/infi-pc/locatorjs) - 
 - [google/react-schemaorg](https://github.com/google/react-schemaorg) - Type-checked Schema.org JSON-LD for React
