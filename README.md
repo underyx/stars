@@ -93,7 +93,6 @@
 - [dyslexicat/scalr](https://github.com/dyslexicat/scalr) - A simple piano app to show which notes belong to a certain scale.
 - [edwardtufte/tufte-css](https://github.com/edwardtufte/tufte-css) - Style your webpage like Edward Tufte’s handouts.
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
-- [beatrix-bodo/beatrix-bodo.github.io](https://github.com/beatrix-bodo/beatrix-bodo.github.io) - Portfolio website
 
 ## Haskell 
 
@@ -240,6 +239,7 @@
 ## SCSS 
 
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
+- [beatrix-bodo/beatrix-bodo.github.io](https://github.com/beatrix-bodo/beatrix-bodo.github.io) - Portfolio website
 
 ## Shell 
 
