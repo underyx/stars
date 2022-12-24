@@ -107,6 +107,7 @@
 
 ## JavaScript 
 
+- [bramses/bramses-highly-opinionated-vault-2023](https://github.com/bramses/bramses-highly-opinionated-vault-2023) - A highly opinionated, fully featured Obsidian vault that can get you from Zero to Zettelkasten lickety split!
 - [flybywiresim/a32nx](https://github.com/flybywiresim/a32nx) - The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible.
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
