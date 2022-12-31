@@ -129,7 +129,6 @@
 - [Strajk/Pickity](https://github.com/Strajk/Pickity) - Searching for geolocations inside the webpage and showing for how much you can get there
 - [nicroto/viktor](https://github.com/nicroto/viktor) - Synthesizer built on the WebAudio API.
 - [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
-- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
 - [shinnn/isogram](https://github.com/shinnn/isogram) - Generate Google Analytics tracking code with any isogrammic parameters you like
 - [evgenTraytyak/kiwi-api](https://github.com/evgenTraytyak/kiwi-api) - :airplane: A Node.js wrapper for the Kiwi.com(Skypicker.com) API
@@ -272,6 +271,7 @@
 - [burtonator/polar-bookshelf](https://github.com/burtonator/polar-bookshelf) - Polar is a personal knowledge repository for PDF and web content supporting incremental reading and document annotation.
 - [kiwicom/orbit](https://github.com/kiwicom/orbit) - React components of open-source Orbit design system by Kiwi.com
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
+- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [ghaiklor/kittik](https://github.com/ghaiklor/kittik) - Create slides in TypeScript and present them in the terminal using ASCII only!
 
 ## Vim Script 
