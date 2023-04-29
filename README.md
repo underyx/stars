@@ -117,7 +117,7 @@
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [mikebryant/ac-nh-turnip-prices](https://github.com/mikebryant/ac-nh-turnip-prices) - Price calculator/predictor for Turnip prices
 - [Strajk/horrendous-markdown](https://github.com/Strajk/horrendous-markdown) - Markdown as horrendous as possible. For testing linters & editors & willpower.
-- [mrtnzlml/meta](https://github.com/mrtnzlml/meta) - :cyclone: My brain extension, personal README
+- [mrtnzlml/meta](https://github.com/mrtnzlml/meta) - :cyclone: My brain extension, personal README --- Exported from monorepo https://github.com/adeira/universe via Shipit
 - [kiwicom/margarita](https://github.com/kiwicom/margarita) - [not actively maintained] Mobile and Web application implementing Kiwi.com Tequila API
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [walaura/tailflix](https://github.com/walaura/tailflix) - drop in replacement for tail -F that asks you if you are still watching
@@ -247,7 +247,7 @@
 
 ## Shell 
 
-- [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
+- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [avinson/localhost-dot-run](https://github.com/avinson/localhost-dot-run) - Simplified image for creating ssh tunnels with https://localhost.run
 - [returntocorp/bento-action](https://github.com/returntocorp/bento-action) - 
 - [wernight/docker-plex-media-server](https://github.com/wernight/docker-plex-media-server) - Dockerized Plex Media Server
