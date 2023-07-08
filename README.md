@@ -44,7 +44,7 @@
 ## C++ 
 
 - [lespalt/iRon](https://github.com/lespalt/iRon) - 
-- [flybywiresim/a32nx](https://github.com/flybywiresim/a32nx) - The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible.
+- [flybywiresim/aircraft](https://github.com/flybywiresim/aircraft) - The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible.
 - [michalsindelar/bpm](https://github.com/michalsindelar/bpm) - This project is an application, which detects heartbeat frequency of sampled person based on short optical record and figures the heartbeat in eye-catching form to the user. Creating algorithm for det
 - [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK
 - [spew/dota-matches](https://github.com/spew/dota-matches) - Command line application for retrieving Dota 2 match results
