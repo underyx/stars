@@ -19,6 +19,7 @@
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Mustache](#mustache)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
@@ -141,6 +142,10 @@
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [wakatime/atom-wakatime](https://github.com/wakatime/atom-wakatime) - Atom plugin for automatic time tracking and metrics generated from your programming activity.
 - [botwillacceptanything/botwillacceptanything](https://github.com/botwillacceptanything/botwillacceptanything) - The project where anything goes, as long as the code allows it
+
+## Jupyter Notebook 
+
+- [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - 
 
 ## Mustache 
 
