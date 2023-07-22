@@ -45,7 +45,6 @@
 ## C++ 
 
 - [lespalt/iRon](https://github.com/lespalt/iRon) - 
-- [flybywiresim/aircraft](https://github.com/flybywiresim/aircraft) - The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible.
 - [michalsindelar/bpm](https://github.com/michalsindelar/bpm) - This project is an application, which detects heartbeat frequency of sampled person based on short optical record and figures the heartbeat in eye-catching form to the user. Creating algorithm for det
 - [ValveSoftware/source-sdk-2013](https://github.com/ValveSoftware/source-sdk-2013) - The 2013 edition of the Source SDK
 - [spew/dota-matches](https://github.com/spew/dota-matches) - Command line application for retrieving Dota 2 match results
@@ -117,6 +116,7 @@
 
 - [apenwarr/blip](https://github.com/apenwarr/blip) - A tool for seeing your Internet latency.  Try it at http://gfblip.appspot.com/
 - [bramses/bramses-highly-opinionated-vault-2023](https://github.com/bramses/bramses-highly-opinionated-vault-2023) - A highly opinionated, fully featured Obsidian vault that can get you from Zero to Zettelkasten lickety split!
+- [flybywiresim/aircraft](https://github.com/flybywiresim/aircraft) - The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible.
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
 - [Jarred-Sumner/git-peek](https://github.com/Jarred-Sumner/git-peek) - git repo to local editor instantly
