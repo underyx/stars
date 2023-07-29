@@ -116,7 +116,7 @@
 
 - [apenwarr/blip](https://github.com/apenwarr/blip) - A tool for seeing your Internet latency.  Try it at http://gfblip.appspot.com/
 - [bramses/bramses-highly-opinionated-vault-2023](https://github.com/bramses/bramses-highly-opinionated-vault-2023) - A highly opinionated, fully featured Obsidian vault that can get you from Zero to Zettelkasten lickety split!
-- [flybywiresim/aircraft](https://github.com/flybywiresim/aircraft) - The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible.
+- [flybywiresim/aircraft](https://github.com/flybywiresim/aircraft) - The A32NX & A380X Project are community driven open source projects to create a free airbus aircraft in Microsoft Flight Simulator that is as close to reality as possible.
 - [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
 - [Jarred-Sumner/git-peek](https://github.com/Jarred-Sumner/git-peek) - git repo to local editor instantly
@@ -186,7 +186,7 @@
 
 - [astral-sh/ruff-vscode](https://github.com/astral-sh/ruff-vscode) - A Visual Studio Code extension with support for the Ruff linter.
 - [approximatelabs/lambdaprompt](https://github.com/approximatelabs/lambdaprompt) - λprompt - A functional programming interface for building AI systems
-- [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [katlol/aiogpt](https://github.com/katlol/aiogpt) - Python 3 asyncio ChatGPT library (reverse engineered)
 - [tophat/syrupy](https://github.com/tophat/syrupy) - :pancakes: The sweeter pytest snapshot plugin
 - [torchfl-org/torchfl](https://github.com/torchfl-org/torchfl) - A Python library for rapid prototyping, experimenting, and logging of federated learning using state-of-the-art models and datasets. Built using PyTorch and PyTorch Lightning.
@@ -281,7 +281,7 @@
 - [google/react-schemaorg](https://github.com/google/react-schemaorg) - Type-checked Schema.org JSON-LD for React
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react) - Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins
-- [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time.
+- [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, solid-styled-components, stitches and goober) at build time.
 - [returntocorp/semgrep-vscode](https://github.com/returntocorp/semgrep-vscode) - Semgrep extension for Visual Studio Code
 - [sveltejs/svelte-preprocess](https://github.com/sveltejs/svelte-preprocess) - A ✨ magical ✨ Svelte preprocessor with sensible defaults and support for: PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, Pug and much more.
 - [kiwicom/orbit](https://github.com/kiwicom/orbit) - React components of open-source Orbit design system by Kiwi.com
