@@ -179,7 +179,7 @@
 ## PHP 
 
 - [etsy/411](https://github.com/etsy/411) - An Alert Management Web Application
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
+- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - The open-source status page system 🚦
 - [erettsegik/erettsegik.hu](https://github.com/erettsegik/erettsegik.hu) - https://erettsegik.hu
 
 ## Python 
