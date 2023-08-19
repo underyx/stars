@@ -179,7 +179,7 @@
 ## PHP 
 
 - [etsy/411](https://github.com/etsy/411) - An Alert Management Web Application
-- [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - The open-source status page system 🚦
+- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
 - [erettsegik/erettsegik.hu](https://github.com/erettsegik/erettsegik.hu) - https://erettsegik.hu
 
 ## Python 
@@ -262,7 +262,7 @@
 - [avinson/localhost-dot-run](https://github.com/avinson/localhost-dot-run) - Simplified image for creating ssh tunnels with https://localhost.run
 - [returntocorp/bento-action](https://github.com/returntocorp/bento-action) - 
 - [wernight/docker-plex-media-server](https://github.com/wernight/docker-plex-media-server) - Dockerized Plex Media Server
-- [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments
+- [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
 
 ## SourcePawn 
 
