@@ -13,7 +13,6 @@
 - [Elixir](#elixir)
 - [GDScript](#gdscript)
 - [Go](#go)
-- [HCL](#hcl)
 - [HTML](#html)
 - [Haskell](#haskell)
 - [Java](#java)
@@ -29,6 +28,7 @@
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Shell](#shell)
+- [Solidity](#solidity)
 - [SourcePawn](#sourcepawn)
 - [Swift](#swift)
 - [TypeScript](#typescript)
@@ -83,10 +83,6 @@
 - [oreqizer/go-jaywt](https://github.com/oreqizer/go-jaywt) - :unlock: A utility package for extracting and validating JWT tokens from requests.
 - [sourcegraph/thyme](https://github.com/sourcegraph/thyme) - Automatically track which applications you use and for how long.
 - [exercism/cli](https://github.com/exercism/cli) - A Go based command line tool for exercism.org.
-
-## HCL 
-
-- [returntocorp/semgrep-rules](https://github.com/returntocorp/semgrep-rules) - Semgrep rules registry
 
 ## HTML 
 
@@ -258,6 +254,10 @@
 - [wernight/docker-plex-media-server](https://github.com/wernight/docker-plex-media-server) - Dockerized Plex Media Server
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
 
+## Solidity 
+
+- [returntocorp/semgrep-rules](https://github.com/returntocorp/semgrep-rules) - Semgrep rules registry
+
 ## SourcePawn 
 
 - [alvancamp/MGEMod](https://github.com/alvancamp/MGEMod) - Comprehensive 1v1 training mod for Team Fortress 2
@@ -269,7 +269,7 @@
 
 ## TypeScript 
 
-- [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager
+- [teaxyz/cli](https://github.com/teaxyz/cli) - tea: run anything
 - [petyosi/react-virtuoso](https://github.com/petyosi/react-virtuoso) - The most powerful virtual list component for React
 - [infi-pc/locatorjs](https://github.com/infi-pc/locatorjs) - 
 - [google/react-schemaorg](https://github.com/google/react-schemaorg) - Type-checked Schema.org JSON-LD for React
