@@ -170,7 +170,7 @@
 ## PHP 
 
 - [etsy/411](https://github.com/etsy/411) - An Alert Management Web Application
-- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
 - [erettsegik/erettsegik.hu](https://github.com/erettsegik/erettsegik.hu) - https://erettsegik.hu
 
 ## Python 
