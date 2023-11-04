@@ -144,7 +144,7 @@
 
 ## OCaml 
 
-- [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 
 ## Objective-C 
 
@@ -188,10 +188,10 @@
 - [cs-cordero/py-ts-interfaces](https://github.com/cs-cordero/py-ts-interfaces) - A Python to Typescript Interface Generator
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [ssfdust/flask-sqlalchemy-stubs](https://github.com/ssfdust/flask-sqlalchemy-stubs) - testing stubs and mypy plugin for flask-sqlalchemy
-- [returntocorp/semgrep-action](https://github.com/returntocorp/semgrep-action) - This project is deprecated. Use https://github.com/returntocorp/semgrep instead
+- [semgrep/semgrep-action](https://github.com/semgrep/semgrep-action) - This project is deprecated. Use https://github.com/returntocorp/semgrep instead
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
 - [joseph-roitman/pytest-snapshot](https://github.com/joseph-roitman/pytest-snapshot) - A plugin for snapshot testing with pytest.
-- [returntocorp/bento](https://github.com/returntocorp/bento) - [DEPRECATED] Find Python web-app bugs delightfully fast, without changing your workflow. 🍱
+- [semgrep/bento](https://github.com/semgrep/bento) - [DEPRECATED] Find Python web-app bugs delightfully fast, without changing your workflow. 🍱
 - [kiwicom/the-zoo](https://github.com/kiwicom/the-zoo) - 🐒 A service registry for humans
 - [kiwicom/phoenix](https://github.com/kiwicom/phoenix) - Outage announcement integration with slack
 - [schovancova/FoodRadar](https://github.com/schovancova/FoodRadar) - Food datascraping off popular websites, advanced macronutrient filtering and notification system.
@@ -249,13 +249,13 @@
 
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [avinson/localhost-dot-run](https://github.com/avinson/localhost-dot-run) - Simplified image for creating ssh tunnels with https://localhost.run
-- [returntocorp/bento-action](https://github.com/returntocorp/bento-action) - 
+- [semgrep/bento-action](https://github.com/semgrep/bento-action) - 
 - [wernight/docker-plex-media-server](https://github.com/wernight/docker-plex-media-server) - Dockerized Plex Media Server
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
 
 ## Solidity 
 
-- [returntocorp/semgrep-rules](https://github.com/returntocorp/semgrep-rules) - Semgrep rules registry
+- [semgrep/semgrep-rules](https://github.com/semgrep/semgrep-rules) - Semgrep rules registry
 
 ## SourcePawn 
 
@@ -276,7 +276,7 @@
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react) - Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins
 - [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, solid-styled-components, stitches and goober) at build time.
-- [returntocorp/semgrep-vscode](https://github.com/returntocorp/semgrep-vscode) - Semgrep extension for Visual Studio Code
+- [semgrep/semgrep-vscode](https://github.com/semgrep/semgrep-vscode) - Semgrep extension for Visual Studio Code
 - [sveltejs/svelte-preprocess](https://github.com/sveltejs/svelte-preprocess) - A ✨ magical ✨ Svelte preprocessor with sensible defaults and support for: PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, Pug and much more.
 - [kiwicom/orbit](https://github.com/kiwicom/orbit) - React components of open-source Orbit design system by Kiwi.com
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
