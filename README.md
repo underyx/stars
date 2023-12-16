@@ -206,7 +206,7 @@
 - [totalgood/openchat](https://github.com/totalgood/openchat) - Twittter and Slack Chatbot to maintain a schedule of events and tweet reminders as they approach.
 - [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [ewjoachim/raincoat](https://github.com/ewjoachim/raincoat) - Raincoat has you covered when you can't stay DRY
-- [h2non/riprova](https://github.com/h2non/riprova) - Versatile async-friendly library to retry failed operations with configurable backoff strategies
+- [h2non/riprova](https://github.com/h2non/riprova) - Versatile async-friendly retry package with multiple backoff strategies
 - [hynek/structlog](https://github.com/hynek/structlog) - Simple, powerful, and fast logging for Python.
 - [aamalev/aiohttp_apiset](https://github.com/aamalev/aiohttp_apiset) - Package to build routes using swagger specification
 - [twschiller/open-synthesis](https://github.com/twschiller/open-synthesis) - Open platform for CIA-style intelligence analysis
