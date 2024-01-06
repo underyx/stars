@@ -271,7 +271,7 @@
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - “run anything” from the creator of `brew`
 - [petyosi/react-virtuoso](https://github.com/petyosi/react-virtuoso) - The most powerful virtual list component for React
 - [infi-pc/locatorjs](https://github.com/infi-pc/locatorjs) - 
-- [flybywiresim/aircraft](https://github.com/flybywiresim/aircraft) - The A32NX & A380X Project are community driven open source projects to create free Airbus aircraft in Microsoft Flight Simulator that is as close to reality as possible.
+- [flybywiresim/aircraft](https://github.com/flybywiresim/aircraft) - The A32NX & A380X Project are community driven open source projects to create free Airbus aircraft in Microsoft Flight Simulator that are as close to reality as possible.
 - [google/react-schemaorg](https://github.com/google/react-schemaorg) - Type-checked Schema.org JSON-LD for React
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react) - Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins
