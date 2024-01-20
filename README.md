@@ -267,6 +267,7 @@
 
 ## TypeScript 
 
+- [stevekrenzel/pick-ems](https://github.com/stevekrenzel/pick-ems) - An LLM agent built on top of OpenAI that predicts winners for ESPN's Pick-Em's game.
 - [astral-sh/ruff-vscode](https://github.com/astral-sh/ruff-vscode) - A Visual Studio Code extension with support for the Ruff linter.
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - “run anything” from the creator of `brew`
 - [petyosi/react-virtuoso](https://github.com/petyosi/react-virtuoso) - The most powerful virtual list component for React
