@@ -51,7 +51,6 @@
 ## CSS 
 
 - [Strajk/refined-trello](https://github.com/Strajk/refined-trello) - Simplifies the Trello interface and adds useful features
-- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [popcorn-time/popcorn-app](https://github.com/popcorn-time/popcorn-app) - An experiment using the peerflix module of nodejs and connecting a bunch of APIs.
 
 ## Clojure 
@@ -152,7 +151,7 @@
 ## Others 
 
 - [danielebruneo/remarkable2-hacks](https://github.com/danielebruneo/remarkable2-hacks) - A collection of hacks, mods, tools, tips & tricks, specifically focused on the reMarkable 2
-- [katlol/stars](https://github.com/katlol/stars) - katlol/stars - An awesome list of my starred repositories
+- [unresolv/stars](https://github.com/unresolv/stars) - katlol/stars - An awesome list of my starred repositories
 - [53RT/Strava-Promo-Codes](https://github.com/53RT/Strava-Promo-Codes) - Collection of Strava Promo Codes for Summit Membership
 - [cbovis/awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
 - [thecookiefactory/cp_change](https://github.com/thecookiefactory/cp_change) - A 5CP Team Fortress 2 map.
@@ -176,7 +175,7 @@
 
 - [approximatelabs/lambdaprompt](https://github.com/approximatelabs/lambdaprompt) - λprompt - A functional programming interface for building AI systems
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
-- [katlol/aiogpt](https://github.com/katlol/aiogpt) - Python 3 asyncio ChatGPT library (reverse engineered)
+- [unresolv/aiogpt](https://github.com/unresolv/aiogpt) - Python 3 asyncio ChatGPT library (reverse engineered)
 - [tophat/syrupy](https://github.com/tophat/syrupy) - :pancakes: The sweeter pytest snapshot plugin
 - [torchfl-org/torchfl](https://github.com/torchfl-org/torchfl) - A Python library for rapid prototyping, experimenting, and logging of federated learning using state-of-the-art models and datasets. Built using PyTorch and PyTorch Lightning.
 - [ucodery/bonded](https://github.com/ucodery/bonded) - 
@@ -242,6 +241,7 @@
 ## SCSS 
 
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
+- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [beatrix-bodo/beatrix-bodo.github.io](https://github.com/beatrix-bodo/beatrix-bodo.github.io) - Portfolio website
 
 ## Shell 
