@@ -258,7 +258,7 @@
 
 ## SourcePawn 
 
-- [anarcho-loneliness/MGEMod](https://github.com/anarcho-loneliness/MGEMod) - Comprehensive 1v1 training mod for Team Fortress 2
+- [astral-arsonist/MGEMod](https://github.com/astral-arsonist/MGEMod) - Comprehensive 1v1 training mod for Team Fortress 2
 
 ## Swift 
 
