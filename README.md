@@ -189,7 +189,6 @@
 - [semgrep/semgrep-action](https://github.com/semgrep/semgrep-action) - This project is deprecated. Use https://github.com/returntocorp/semgrep instead
 - [karlicoss/promnesia](https://github.com/karlicoss/promnesia) - Another piece of your extended mind
 - [joseph-roitman/pytest-snapshot](https://github.com/joseph-roitman/pytest-snapshot) - A plugin for snapshot testing with pytest.
-- [semgrep/bento](https://github.com/semgrep/bento) - [DEPRECATED] Find Python web-app bugs delightfully fast, without changing your workflow. 🍱
 - [kiwicom/the-zoo](https://github.com/kiwicom/the-zoo) - 🐒 A service registry for humans
 - [kiwicom/phoenix](https://github.com/kiwicom/phoenix) - Outage announcement integration with slack
 - [schovancova/FoodRadar](https://github.com/schovancova/FoodRadar) - Food datascraping off popular websites, advanced macronutrient filtering and notification system.
@@ -248,7 +247,6 @@
 
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
 - [avinson/localhost-dot-run](https://github.com/avinson/localhost-dot-run) - Simplified image for creating ssh tunnels with https://localhost.run
-- [semgrep/bento-action](https://github.com/semgrep/bento-action) - 
 - [wernight/docker-plex-media-server](https://github.com/wernight/docker-plex-media-server) - Dockerized Plex Media Server
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv) - Directory-based environments.
 
