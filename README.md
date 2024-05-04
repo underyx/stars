@@ -51,6 +51,7 @@
 ## CSS 
 
 - [Strajk/refined-trello](https://github.com/Strajk/refined-trello) - Simplifies the Trello interface and adds useful features
+- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [popcorn-time/popcorn-app](https://github.com/popcorn-time/popcorn-app) - An experiment using the peerflix module of nodejs and connecting a bunch of APIs.
 
 ## Clojure 
@@ -240,7 +241,6 @@
 ## SCSS 
 
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
-- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [beatrix-bodo/beatrix-bodo.github.io](https://github.com/beatrix-bodo/beatrix-bodo.github.io) - Portfolio website
 
 ## Shell 
@@ -256,7 +256,7 @@
 
 ## SourcePawn 
 
-- [astral-arsonist/MGEMod](https://github.com/astral-arsonist/MGEMod) - Comprehensive 1v1 training mod for Team Fortress 2
+- [from-the-river-to-the-sea/MGEMod](https://github.com/from-the-river-to-the-sea/MGEMod) - Comprehensive 1v1 training mod for Team Fortress 2
 
 ## Swift 
 
