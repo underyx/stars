@@ -152,7 +152,7 @@
 ## Others 
 
 - [danielebruneo/remarkable2-hacks](https://github.com/danielebruneo/remarkable2-hacks) - A collection of hacks, mods, tools, tips & tricks, specifically focused on the reMarkable 2
-- [unresolv/stars](https://github.com/unresolv/stars) - katlol/stars - An awesome list of my starred repositories
+- [iakat/stars](https://github.com/iakat/stars) - katlol/stars - An awesome list of my starred repositories
 - [53RT/Strava-Promo-Codes](https://github.com/53RT/Strava-Promo-Codes) - Collection of Strava Promo Codes for Summit Membership
 - [cbovis/awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
 - [thecookiefactory/cp_change](https://github.com/thecookiefactory/cp_change) - A 5CP Team Fortress 2 map.
@@ -176,7 +176,7 @@
 
 - [approximatelabs/lambdaprompt](https://github.com/approximatelabs/lambdaprompt) - λprompt - A functional programming interface for building AI systems
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
-- [unresolv/aiogpt](https://github.com/unresolv/aiogpt) - Python 3 asyncio ChatGPT library (reverse engineered)
+- [iakat/aiogpt](https://github.com/iakat/aiogpt) - Python 3 asyncio ChatGPT library (reverse engineered)
 - [tophat/syrupy](https://github.com/tophat/syrupy) - :pancakes: The sweeter pytest snapshot plugin
 - [torchfl-org/torchfl](https://github.com/torchfl-org/torchfl) - A Python library for rapid prototyping, experimenting, and logging of federated learning using state-of-the-art models and datasets. Built using PyTorch and PyTorch Lightning.
 - [ucodery/bonded](https://github.com/ucodery/bonded) - 
