@@ -256,7 +256,7 @@
 
 ## SourcePawn 
 
-- [from-the-river-to-the-sea/MGEMod](https://github.com/from-the-river-to-the-sea/MGEMod) - Comprehensive 1v1 training mod for Team Fortress 2
+- [Abrahamic-God/MGEMod](https://github.com/Abrahamic-God/MGEMod) - Comprehensive 1v1 training mod for Team Fortress 2
 
 ## Swift 
 
