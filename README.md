@@ -29,7 +29,6 @@
 - [SCSS](#scss)
 - [Shell](#shell)
 - [Solidity](#solidity)
-- [SourcePawn](#sourcepawn)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
@@ -252,10 +251,6 @@
 ## Solidity 
 
 - [semgrep/semgrep-rules](https://github.com/semgrep/semgrep-rules) - Semgrep rules registry
-
-## SourcePawn 
-
-- [Abrahamic-God/MGEMod](https://github.com/Abrahamic-God/MGEMod) - Comprehensive 1v1 training mod for Team Fortress 2
 
 ## Swift 
 
