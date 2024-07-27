@@ -119,7 +119,7 @@
 - [kantord/emuto](https://github.com/kantord/emuto) - manipulate JSON files
 - [kiwicom/nitrolib](https://github.com/kiwicom/nitrolib) - This is a mirror of https://gitlab.skypicker.com/frontend/nitrolib where y'all have no access :kissing_cat:
 - [kiwicom/smart-faq](https://github.com/kiwicom/smart-faq) - Smart FAQ ⚠️INACTIVE → moved to internal GitLab ⚠️
-- [Jermolene/TiddlyWiki5](https://github.com/Jermolene/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
+- [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [kiwicom/refined-gitlab](https://github.com/kiwicom/refined-gitlab) - 🛠 WIP 🛠 Chrome extension that enhances GitLab
 - [sloria/sir](https://github.com/sloria/sir) - (Work in progress) An open source assistant . Python 3 + aiohttp on the backend. ES6 + Redux + React on the frontend.
 - [Strajk/Pickity](https://github.com/Strajk/Pickity) - Searching for geolocations inside the webpage and showing for how much you can get there
@@ -229,6 +229,7 @@
 
 ## Rust 
 
+- [nichmor/quick-commit](https://github.com/nichmor/quick-commit) - a Rust reimplementation of pre-commit
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
