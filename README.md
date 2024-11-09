@@ -260,6 +260,7 @@
 
 ## TypeScript 
 
+- [Goodheart-Labs/discussion-bot](https://github.com/Goodheart-Labs/discussion-bot) - 
 - [stevekrenzel/pick-ems](https://github.com/stevekrenzel/pick-ems) - An LLM agent built on top of OpenAI that predicts winners for ESPN's Pick-Em's game.
 - [astral-sh/ruff-vscode](https://github.com/astral-sh/ruff-vscode) - A Visual Studio Code extension with support for the Ruff linter.
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - run anything
@@ -279,6 +280,7 @@
 
 ## Vim Script 
 
+- [underyx/dotfiles](https://github.com/underyx/dotfiles) - a collection of dotfiles, as may be obvious
 - [wakatime/vim-wakatime](https://github.com/wakatime/vim-wakatime) - Vim plugin for automatic time tracking and metrics generated from your programming activity.
 
 
